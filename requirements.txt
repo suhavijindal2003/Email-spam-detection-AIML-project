@@ -1,8 +1,13 @@
-<<<<<<< HEAD
-streamlit
+
+# streamlit
+# nltk
+# streamlit
+# nltk
+# >>>>>>> 519f79a5d45065e6d3e2cdf2bc42197d28ed43ba
+# sklearn
+
+streamlit==1.30.0
+scikit-learn
+pandas
+numpy
 nltk
-=======
-streamlit
-nltk
->>>>>>> 519f79a5d45065e6d3e2cdf2bc42197d28ed43ba
-sklearn
