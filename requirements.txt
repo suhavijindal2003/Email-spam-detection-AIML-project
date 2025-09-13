@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+streamlit
+nltk
+=======
+streamlit
+nltk
+>>>>>>> 519f79a5d45065e6d3e2cdf2bc42197d28ed43ba
+sklearn
