@@ -1,0 +1,15 @@
+streamlit==1.30.0
+numpy==1.26.4
+scikit-learn==1.7.2
+pandas==2.3.2
+nltk==3.9.1
+pillow==10.4.0
+
+# Fix rich version syntax and compatibility with streamlit 1.30.0
+rich>=10.14.0,<14
+
+# markdown-it-py compatible with rich<14
+markdown-it-py<3
+
+mdurl==0.1.2
+pygments==2.19.2
